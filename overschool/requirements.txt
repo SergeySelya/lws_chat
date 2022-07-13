@@ -1,0 +1,4 @@
+django
+channels
+djngorestframework
+django-crispy-forms
